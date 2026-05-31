@@ -1,5 +1,5 @@
 <h1 align="center">Hey, I'm Sylvia Salu </h1>
-<h3 align="center">Full-Stack Developer & Founder of SmartTECH Labs · Tanzania 🇹🇿</h3>
+<h3 align="center">Full-Stack Developer & Founder of SmartTECH Labs · Tanzania</h3>
 
 <br/>
 
@@ -10,7 +10,7 @@ I'm a software engineer and founder of **SmartTECH Labs**, a tech studio based i
 -  I build **web apps, Android apps, business automation & client management systems**
 -  Currently expanding into **AI automation** using n8n and the Claude API
 -  Final-year **Software Engineering** student
--  Based in **Arusha, Tanzania** — serving SMEs across East Africa
+-  Based in **Arusha, Tanzania**  serving SMEs across East Africa
 -  Ask me about **PHP, MySQL, REST APIs, M-Pesa integration, WhatsApp automation**
 
 ---
