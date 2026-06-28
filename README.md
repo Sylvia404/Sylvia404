@@ -14,14 +14,14 @@
 
 -  Software Engeneering Graduate
 -  based in Tanzania 🇹🇿  Arusha & Dar es Salaam
--  i love clean code as much as i love cute design — kawaii-luxe is my whole aesthetic
+-  i love clean code as much as i love cute design  kawaii-luxe is my whole aesthetic
 -  my faith keeps me grounded through every late-night debugging session
 -  currently deep in PHP/MySQL, Next.js, and automation tools
--  always learning something new — Android/Kotlin is my current rabbit hole
+-  always learning something new  Android/Kotlin is my current rabbit hole
 
 ---
 
-### 🛠️ things i build with
+###  things i build with
 
 <p align="center">
   <img src="https://skillicons.dev/icons?i=php,mysql,nextjs,react,js,html,css,kotlin,androidstudio,git,github,figma&theme=light" />
@@ -31,7 +31,7 @@
 
 
 
-### 💌 let's connect
+### 
 
 <p align="center">
   <a href="https://github.com/Sylvia404"><img src="https://img.shields.io/badge/GitHub-Sylvia404-F472B6?style=for-the-badge&logo=github&logoColor=white"></a>
