@@ -1,7 +1,7 @@
 <h1 align="center">hii, i'm Sylvia 🎀💻</h1>
 
 <p align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=building+things+one+commit+at+a+time;PHP+%2B+MySQL+%2B+Next.js+%2B+a+lot+of+pink;BIT+student+%40+IAA+Arusha;coding+with+coffee+and+faith+%E2%9C%A8" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Poppins&size=22&duration=3000&pause=1000&color=F472B6&center=true&vCenter=true&width=600&lines=building+things+one+commit+at+a+time;PHP+%2B+MySQL+%2B+Next.js+%2B+a+lot+of+pink;Software+Engeneering+%40+Student+Arusha;coding+with+coffee+and+faith+%E2%9C%A8" alt="Typing SVG" />
 </p>
 
 <p align="center">
